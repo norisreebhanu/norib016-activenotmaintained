@@ -16,3 +16,4 @@ As a result, the older repository is **no longer maintained**.
 ### 🔗 Previous (read-only) repository/git account
 https://github.com/norib016
 
+For any questions about repository history, feel free to open an issue here.
